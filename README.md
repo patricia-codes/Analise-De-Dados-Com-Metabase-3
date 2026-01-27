@@ -1,4 +1,4 @@
-# 📊 Dashboard Analítico de Avaliações de Pedidos — Metabase (Escola DNC)
+# 📊 Dashboard Analítico de Avaliações de Produtos — Metabase (Escola DNC)
 ### Projeto de Análise de Dados utilizando Metabase + Dataset da DNC
 
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
