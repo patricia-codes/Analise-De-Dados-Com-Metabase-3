@@ -48,7 +48,7 @@ https://dex.dnc.group/browse
 
 🔗 **Integração dos Dados**
 
- - A integração entre as tabelas Products e Reviews foi realizada diretamente no Metabase, por meio da configuração de relacionamentos no Data Model, sem utilização de código SQL.
+ - A integração entre as tabelas Products e Reviews foi realizada diretamente no Metabase, por meio da configuração de relacionamentos utilizando o editor visual, sem utilização de código SQL.
 
 **Esse relacionamento permitiu:**
 
