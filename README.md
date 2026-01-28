@@ -81,7 +81,7 @@ https://dex.dnc.group/browse
 - Sugere boa aceitação desses itens pelos usuários
 
 ## 3️⃣ Média de Avaliação por Categoria
--As categorias apresentam médias semelhantes
+- As categorias apresentam médias semelhantes
 - Não há grandes discrepâncias entre os grupos analisados
 
 ## 4️⃣ Evolução do Volume de Avaliações
