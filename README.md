@@ -100,7 +100,7 @@ https://dex.dnc.group/browse
 ## 🚀 Próximo passo
 
 Replicar a análise utilizando SQL, visando aprofundamento técnico.  
-Como continuidade, foi criado o repositório `metabase-dashboard-avaliacao-produtos-sql`, contendo as consultas desenvolvidas em SQL.
+Como continuidade, foi criado o repositório [`metabase-dashboard-avaliacao-produtos-sql`](https://github.com/patricia-codes/metabase-dashboard-avaliacao-produtos-sql), contendo as consultas desenvolvidas em SQL.
 
 ---
 
