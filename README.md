@@ -3,7 +3,6 @@
 
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 ![Ferramentas](https://img.shields.io/badge/Metabase-Analytics-blue)
-![Licença](https://img.shields.io/badge/License-MIT-lightgrey)
 ![Linguagem](https://img.shields.io/badge/Documentação-Markdown-yellow)
 
 ---
