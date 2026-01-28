@@ -97,12 +97,13 @@ https://dex.dnc.group/browse
 - 📌 O aumento contínuo de avaliações sugere crescimento da base de usuários ou maior engajamento
 
 ---
+## 🚀 Próximo passo
 
-## 🚀 Próximo passo:
-
-Replicar a análise utilizando SQL para aprofundamento técnico
+Replicar a análise utilizando SQL, visando aprofundamento técnico.  
+Como continuidade, foi criado o repositório `metabase-dashboard-avaliacao-produtos-sql`, contendo as consultas desenvolvidas em SQL.
 
 ---
+
 
 ## 🛠️ Ferramentas Utilizadas
 
